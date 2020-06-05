@@ -116,3 +116,7 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
+
+# Server
+server/uploads/*
+!server/uploads/.gitkeep
